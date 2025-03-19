@@ -1,0 +1,962 @@
+[
+    {
+        "id": 1,
+        "question": "¿Quién dirigió la película 'El Padrino'?",
+        "image": "",
+        "answers": [
+            "Steven Spielberg",
+            "Martin Scorsese",
+            "Francis Ford Coppola",
+            "Quentin Tarantino"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 2,
+        "question": "¿Cuál es la capital de Francia?",
+        "image": "",
+        "answers": [
+            "Berlín",
+            "Madrid",
+            "París",
+            "Roma"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 3,
+        "question": "¿Qué grupo musical mexicano es conocido por canciones como 'Labios Compartidos'?",
+        "image": "",
+        "answers": [
+            "Maná",
+            "Café Tacvba",
+            "Los Ángeles Azules",
+            "Molotov"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 4,
+        "question": "¿Cuál es el resultado de 8 x 7?",
+        "image": "",
+        "answers": [
+            "48",
+            "56",
+            "64",
+            "72"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 5,
+        "question": "¿En qué año se estrenó la película 'Titanic'?",
+        "image": "",
+        "answers": [
+            "1995",
+            "1997",
+            "1999",
+            "2001"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 6,
+        "question": "¿Cuál es el río más largo del mundo?",
+        "image": "",
+        "answers": [
+            "Nilo",
+            "Amazonas",
+            "Yangtsé",
+            "Misisipi"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 7,
+        "question": "¿Qué cantante mexicano es conocido como 'El Sol de México'?",
+        "image": "",
+        "answers": [
+            "Vicente Fernández",
+            "Juan Gabriel",
+            "Luis Miguel",
+            "José José"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 8,
+        "question": "¿Cuál es el resultado de 15 + 23?",
+        "image": "",
+        "answers": [
+            "38",
+            "37",
+            "36",
+            "35"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 9,
+        "question": "¿Qué actor interpretó a Jack Dawson en 'Titanic'?",
+        "image": "",
+        "answers": [
+            "Brad Pitt",
+            "Leonardo DiCaprio",
+            "Tom Cruise",
+            "Johnny Depp"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 10,
+        "question": "¿Cuál es la capital de México?",
+        "image": "",
+        "answers": [
+            "Guadalajara",
+            "Monterrey",
+            "Ciudad de México",
+            "Puebla"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 11,
+        "question": "¿Qué grupo musical es conocido por la canción 'Oye Mi Amor'?",
+        "image": "",
+        "answers": [
+            "Maná",
+            "Café Tacvba",
+            "Los Temerarios",
+            "Los Tigres del Norte"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 12,
+        "question": "¿Cuál es el resultado de 45 ÷ 9?",
+        "image": "",
+        "answers": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 13,
+        "question": "¿Qué película ganó el Oscar a Mejor Película en 2020?",
+        "image": "",
+        "answers": [
+            "Parásitos",
+            "1917",
+            "Joker",
+            "Once Upon a Time in Hollywood"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 14,
+        "question": "¿Cuál es el país más grande del mundo por área?",
+        "image": "",
+        "answers": [
+            "Canadá",
+            "China",
+            "Rusia",
+            "Estados Unidos"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 15,
+        "question": "¿Qué actriz mexicana ganó un Oscar por su papel en una Pelicula sobre la vida de una pintora famosa mexicana?",
+        "image": "",
+        "answers": [
+            "Salma Hayek",
+            "Ana de la Reguera",
+            "Kate del Castillo",
+            "Gael García Bernal"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 16,
+        "question": "¿Cuál es el resultado de 12 x 12?",
+        "image": "",
+        "answers": [
+            "144",
+            "132",
+            "124",
+            "120"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 17,
+        "question": "¿Qué película de Disney tiene como protagonista a una joven y hermosa dama y un principe con una maldicion?",
+        "image": "",
+        "answers": [
+            "Frozen",
+            "Moana",
+            "Coco",
+            "La Bella y la Bestia"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 18,
+        "question": "¿Cuál es el océano más grande del mundo?",
+        "image": "",
+        "answers": [
+            "Atlántico",
+            "Índico",
+            "Pacífico",
+            "Ártico"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 19,
+        "question": "¿Qué cantante mexicano es conocido como 'El Rey'?",
+        "image": "",
+        "answers": [
+            "Vicente Fernández",
+            "Juan Gabriel",
+            "José José",
+            "Javier Solís"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 20,
+        "question": "¿Cuál es el resultado de 100 - 57?",
+        "image": "",
+        "answers": [
+            "43",
+            "42",
+            "44",
+            "45"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 21,
+        "question": "¿Qué película de superhéroes está protagonizada por Robert Downey Jr. como Iron Man?",
+        "image": "",
+        "answers": [
+            "The Avengers",
+            "Spider-Man: Homecoming",
+            "Iron Man",
+            "Captain America: Civil War"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 22,
+        "question": "¿Cuál es la capital de Argentina?",
+        "image": "",
+        "answers": [
+            "Buenos Aires",
+            "Santiago",
+            "Lima",
+            "Montevideo"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 23,
+        "question": "¿Qué cantante mexicano es conocido por la canción 'Amor Eterno'?",
+        "image": "",
+        "answers": [
+            "Vicente Fernández",
+            "Juan Gabriel",
+            "José José",
+            "Alejandro Fernández"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 24,
+        "question": "¿Cuál es el resultado de 25 + 34?",
+        "image": "",
+        "answers": [
+            "59",
+            "58",
+            "57",
+            "56"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 25,
+        "question": "¿Qué película de Disney está protagonizada por un joven que sueña con ser un músico reconocido?",
+        "image": "",
+        "answers": [
+            "Coco",
+            "Moana",
+            "Frozen",
+            "Zootopia"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 26,
+        "question": "¿Cuál es el país más poblado del mundo?",
+        "image": "",
+        "answers": [
+            "India",
+            "Estados Unidos",
+            "China",
+            "Brasil"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 27,
+        "question": "¿Qué grupo musical mexicano es conocido por la canción 'Rayando el Sol'?",
+        "image": "",
+        "answers": [
+            "Maná",
+            "Café Tacvba",
+            "Los Ángeles Azules",
+            "Molotov"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 28,
+        "question": "¿Cuál es el resultado de 72 - 8?",
+        "image": "",
+        "answers": [
+            "64",
+            "66",
+            "74",
+            "80"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 29,
+        "question": "¿Qué película de Christopher Nolan trata sobre los sueños y la mente humana?",
+        "image": "",
+        "answers": [
+            "Interstellar",
+            "Inception",
+            "The Dark Knight",
+            "Dunkirk"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 30,
+        "question": "¿Cuál es la capital de Canadá?",
+        "image": "",
+        "answers": [
+            "Toronto",
+            "Ottawa",
+            "Montreal",
+            "Vancouver"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 31,
+        "question": "¿Qué actriz mexicana es conocida por su papel en 'La Usurpadora'?",
+        "image": "",
+        "answers": [
+            "Thalía",
+            "Lucero",
+            "Verónica Castro",
+            "Salma Hayek"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 32,
+        "question": "¿Cuál es el resultado de 18 x 3?",
+        "image": "",
+        "answers": [
+            "54",
+            "56",
+            "58",
+            "60"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 33,
+        "question": "¿Qué película de Marvel introdujo por primera vez al personaje de Black Panther?",
+        "image": "",
+        "answers": [
+            "Avengers: Age of Ultron",
+            "Captain America: Civil War",
+            "Black Panther",
+            "Thor: Ragnarok"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 34,
+        "question": "¿Cuál es el desierto más grande del mundo?",
+        "image": "",
+        "answers": [
+            "Desierto del Sahara",
+            "Desierto de Gobi",
+            "Desierto de Arabia",
+            "Desierto de Atacama"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 35,
+        "question": "¿Qué cantante mexicano es conocido como 'El Divo de Juárez'?",
+        "image": "",
+        "answers": [
+            "Juan Gabriel",
+            "Vicente Fernández",
+            "José José",
+            "Alejandro Fernández"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 36,
+        "question": "¿Cuál es el resultado de 144 ÷ 12?",
+        "image": "",
+        "answers": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 37,
+        "question": "¿Qué película de Disney está basada en la historia de una princesa que tiene como mejor amigo a un Pez?",
+        "image": "",
+        "answers": [
+            "Frozen",
+            "Moana",
+            "La Sirenita",
+            "Coco"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 38,
+        "question": "¿Cuál es la capital de Brasil?",
+        "image": "",
+        "answers": [
+            "Río de Janeiro",
+            "São Paulo",
+            "Brasilia",
+            "Salvador"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 39,
+        "question": "¿Qué grupo musical mexicano es conocido por la canción 'Vivir Así es Morir de Amor'?",
+        "image": "",
+        "answers": [
+            "Los Ángeles Azules",
+            "Café Tacvba",
+            "Los Temerarios",
+            "Maná"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 40,
+        "question": "¿Cuál es el resultado de 7 x 8?",
+        "image": "",
+        "answers": [
+            "56",
+            "54",
+            "58",
+            "60"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 41,
+        "question": "¿Animal que tiene 4 corazones?",
+        "image": "",
+        "answers": [
+            "Calamar",
+            "Pulpo",
+            "Medusa",
+            "Langosta"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 42,
+        "question": "¿Cuál es la capital de Japón?",
+        "image": "",
+        "answers": [
+            "Osaka",
+            "Kioto",
+            "Tokio",
+            "Hiroshima"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 43,
+        "question": "¿Qué cantante mexicano es conocido como 'El Potrillo'?",
+        "image": "",
+        "answers": [
+            "Alejandro Fernández",
+            "Vicente Fernández",
+            "Pepe Aguilar",
+            "Juan Gabriel"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 44,
+        "question": "¿Cuál es el resultado de 9 x 6?",
+        "image": "",
+        "answers": [
+            "54",
+            "56",
+            "58",
+            "60"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 45,
+        "question": "¿Cuál es el animal más grande del mundo?",
+        "image": "",
+        "answers": [
+            "Elefante africano",
+            "Ballena azul",
+            "Tiburón ballena",
+            "Jirafa"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 46,
+        "question": "¿Cuál es el país más pequeño del mundo?",
+        "image": "",
+        "answers": [
+            "Mónaco",
+            "San Marino",
+            "Vaticano",
+            "Liechtenstein"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 47,
+        "question": "¿Qué grupo musical mexicano es conocido por la canción 'Eres'?",
+        "image": "",
+        "answers": [
+            "Café Tacvba",
+            "Maná",
+            "Los Temerarios",
+            "Los Ángeles Azules"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 48,
+        "question": "¿Cuál es el único mamífero capaz de volar?",
+        "image": "",
+        "answers": [
+            "Aguila",
+            "Colibrí",
+            "Murciélago",
+            "Pingüino"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 49,
+        "question": "¿Qué película de ciencia ficción está protagonizada por Keanu Reeves como Neo?",
+        "image": "",
+        "answers": [
+            "Blade Runner",
+            "The Matrix",
+            "Inception",
+            "Interstellar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 50,
+        "question": "¿Cuál es la capital de Australia?",
+        "image": "",
+        "answers": [
+            "Sídney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 51,
+        "question": "¿Qué actriz mexicana es conocida por su papel en 'Sexo pudor y Lagrimas'?",
+        "image": "",
+        "answers": [
+            "Salma Hayek",
+            "Susana Zabaleta",
+            "Jorge Salinas",
+            "Demián Bichir"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 52,
+        "question": "¿Cuál es el animal más rápido del mundo?",
+        "image": "",
+        "answers": [
+            "Leopardo",
+            "Águila",
+            "Pez vela",
+            "Guepardo"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "id": 53,
+        "question": "¿Qué película de Disney está protagonizada por una princesa que tiene poderes mágicos en su cabello?",
+        "image": "",
+        "answers": [
+            "Frozen",
+            "Rapunzel",
+            "Moana",
+            "Coco"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 54,
+        "question": "¿Cuál es el río más largo de América del Sur?",
+        "image": "",
+        "answers": [
+            "Río Amazonas",
+            "Río Paraná",
+            "Río Orinoco",
+            "Río de la Plata"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 55,
+        "question": "¿Qué cantante mexicano es conocido por la canción 'Si Nos Dejan'?",
+        "image": "",
+        "answers": [
+            "José José",
+            "Vicente Fernández",
+            "Juan Gabriel",
+            "Alejandro Fernández"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 56,
+        "question": "¿Cuál es el animal más venenoso del mundo?",
+        "image": "",
+        "answers": [
+            "Serpiente taipán",
+            "Rana dorada venenosa",
+            "Medusa cubozoa",
+            "Araña viuda negra"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 57,
+        "question": "¿Cuál de los siguientes utensilios se utiliza para batir claras de huevo?",
+        "image": "",
+        "answers": [
+            "Cuchara de madera",
+            "Batidora de mano",
+            "Espátula",
+            "Rodillo"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 58,
+        "question": "¿Cuál es la capital de Italia?",
+        "image": "",
+        "answers": [
+            "Milán",
+            "Roma",
+            "Venecia",
+            "Florencia"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 59,
+        "question": "¿Cuál es el animal más pequeño del mundo?",
+        "image": "",
+        "answers": [
+            "Colibrí abeja",
+            "Musaraña etrusca",
+            "Rana Paedophryne amauensis",
+            "Araña patona"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 60,
+        "question": "¿Cuál de estos utensilios se usa para amasar pan?",
+        "image": "",
+        "answers": [
+            "Rodillo",
+            "Batidora de mano",
+            "Espátula",
+            "Cuchillo de sierra"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 61,
+        "question": "¿Qué civilización prehispánica construyó la ciudad de Tenochtitlán?",
+        "image": "",
+        "answers": [
+            "Mayas",
+            "Aztecas",
+            "Zapotecas",
+            "Toltecas"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 62,
+        "question": "¿Qué famoso pintor es conocido por cortarse una oreja?",
+        "image": "",
+        "answers": [
+            "Pablo Picasso",
+            "Vincent van Gogh",
+            "Salvador Dalí",
+            "Claude Monet"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 63,
+        "question": "¿Quién escribió la obra 'Romeo y Julieta'?",
+        "image": "",
+        "answers": [
+            "Charles Dickens",
+            "William Shakespeare",
+            "Mark Twain",
+            "Jane Austen"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 64,
+        "question": "¿Qué científico formuló la teoría de la relatividad?",
+        "image": "",
+        "answers": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Stephen Hawking",
+            "Nikola Tesla"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 65,
+        "question": "¿Quién fue la primera mujer en ganar un Premio Nobel?",
+        "image": "",
+        "answers": [
+            "Marie Curie",
+            "Rosalind Franklin",
+            "Florence Nightingale",
+            "Ada Lovelace"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 66,
+        "question": "¿Qué cantante es conocido como 'El Rey del Pop'?",
+        "image": "",
+        "answers": [
+            "Elvis Presley",
+            "Michael Jackson",
+            "Prince",
+            "Madonna"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 67,
+        "question": "¿Quién fue el líder de la Revolución Cubana?",
+        "image": "",
+        "answers": [
+            "Che Guevara",
+            "Fidel Castro",
+            "Simón Bolívar",
+            "Hugo Chávez"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 68,
+        "question": "¿Qué filósofo es conocido por su frase 'Pienso, luego existo'?",
+        "image": "",
+        "answers": [
+            "Aristóteles",
+            "Platón",
+            "René Descartes",
+            "Friedrich Nietzsche"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 69,
+        "question": "¿Quién fue el primer hombre en pisar la Luna?",
+        "image": "",
+        "answers": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Yuri Gagarin",
+            "Alan Shepard"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 70,
+        "question": "¿Qué actriz es conocida por su papel en 'La Novia Cadáver' y 'Kill Bill'?",
+        "image": "",
+        "answers": [
+            "Scarlett Johansson",
+            "Uma Thurman",
+            "Angelina Jolie",
+            "Natalie Portman"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 71,
+        "question": "¿Quién fue el fundador de Microsoft?",
+        "image": "",
+        "answers": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Mark Zuckerberg",
+            "Larry Page"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 72,
+        "question": "¿En qué año comenzó la Guerra de Independencia de México?",
+        "image": "",
+        "answers": [
+            "1810",
+            "1821",
+            "1808",
+            "1815"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 73,
+        "question": "¿Quién fue el primer emperador de Roma?",
+        "image": "",
+        "answers": [
+            "Julio César",
+            "Augusto",
+            "Nerón",
+            "Marco Aurelio"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 74,
+        "question": "¿Qué escritor es conocido por crear 'El Señor de los Anillos'?",
+        "image": "",
+        "answers": [
+            "C.S. Lewis",
+            "J.K. Rowling",
+            "J.R.R. Tolkien",
+            "George R.R. Martin"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "id": 75,
+        "question": "¿Quién fue el líder revolucionario conocido como 'El Centauro del Norte'?",
+        "image": "",
+        "answers": [
+            "Emiliano Zapata",
+            "Pancho Villa",
+            "Álvaro Obregón",
+            "Venustiano Carranza"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 76,
+        "question": "¿Qué científico es conocido por descubrir la gravedad?",
+        "image": "",
+        "answers": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Nikola Tesla"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 77,
+        "question": "¿Quién fue el emperador de México durante el Segundo Imperio Mexicano?",
+        "image": "",
+        "answers": [
+            "Agustín de Iturbide",
+            "Maximiliano de Habsburgo",
+            "Benito Juárez",
+            "Porfirio Díaz"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 78,
+        "question": "¿Qué cantante es conocido como 'El Rey del Rock and Roll'?",
+        "image": "",
+        "answers": [
+            "Elvis Presley",
+            "Chuck Berry",
+            "Little Richard",
+            "Buddy Holly"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "id": 79,
+        "question": "¿Quién fue el primer hombre en orbitar la Tierra?",
+        "image": "",
+        "answers": [
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Derek Shepard",
+            "John Glenn"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "id": 80,
+        "question": "¿Qué artista es conocido por su obra 'La última cena'?",
+        "image": "",
+        "answers": [
+            "Miguel Ángel",
+            "Leonardo da Vinci",
+            "Rafael",
+            "Donatello"
+        ],
+        "correctAnswer": 1
+    }
+]
