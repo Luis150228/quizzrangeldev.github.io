@@ -7,7 +7,7 @@ interface QuestionGameStore {
     currentQuestion: number;
     endGame: boolean;
     setCurrentQuestion: (question: number) => Promise<void>;
-    selectedAnswer: (questionId: number, answerId: number)=> void
+    selectedAnswer: (answerId: number)=> void
     goNextQuestion: ()=>void
     goBackQuestion: ()=>void
     endGameQuestions: ()=>void
@@ -29,8 +29,9 @@ export const useQuestionGameStore = create<QuestionGameStore>((set, get) =>{
             set({ questions: callQuestionsGame });
         },
 
-        selectedAnswer:(questionId: number, answerId: number)=>{
-            const { questions, endGameQuestions } = get()//recuperamos el estado o data actual
+        selectedAnswer:(answerId: number)=>{
+            const { questions, endGameQuestions, currentQuestion } = get()//recuperamos el estado o data actual
+            const questionId = questions[currentQuestion].id;
             const newQuestion = structuredClone(questions)
             const questionIndex = newQuestion.findIndex(quest => quest.id === questionId)
             const questionInfo = newQuestion[questionIndex]

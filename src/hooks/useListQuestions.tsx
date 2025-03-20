@@ -25,5 +25,5 @@ export const useListQuestions = () => {
 			: 'afafaf';
 	};
 
-	return { responseQuestion, answerOptions, selectedAnswer, iconItem: IconItem, textColorSelected };
+	return { responseQuestion, answerOptions, selectedAnswer, IconItem, textColorSelected };
 };
