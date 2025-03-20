@@ -11,6 +11,7 @@ export const ListQuestions = () => {
 	const question = questions[currentQuestion];
 	// console.log(questions);
 	const answerOptions = question.answers;
+	const selectedAnswer = question.selectedAnswer;
 
 	const iconItem = ({ indexAnswer }: { indexAnswer: number }) => {
 		if (question.selectedAnswer !== undefined && question.selectedAnswer >= 0) {
@@ -43,7 +44,7 @@ export const ListQuestions = () => {
 						<ListItemButton
 							onClick={handleClick}
 							data-answer={indexId}
-							disabled={question.selectedAnswer !== undefined}>
+							disabled={selectedAnswer !== undefined}>
 							<ListItemIcon>{iconItem({ indexAnswer: indexId })}</ListItemIcon>
 							<ListItemText
 								primary={answareText}
