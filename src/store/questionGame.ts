@@ -1,5 +1,6 @@
 import { create } from "zustand";
 import { type Question } from "../store/types.d";
+import { persist } from "zustand/middleware";
 const API_QUESTIONS = "http://localhost:5173/public/question.json";
 
 interface QuestionGameStore {
@@ -14,7 +15,8 @@ interface QuestionGameStore {
 }
 
 
-export const useQuestionGameStore = create<QuestionGameStore>((set, get) =>{
+export const useQuestionGameStore = create<QuestionGameStore>()(persist(
+    (set, get) =>{
     return{
         questions: [],
         currentQuestion: 0,//Posicion o ID,numero de la pregunta (no el id de la API)
@@ -73,4 +75,4 @@ export const useQuestionGameStore = create<QuestionGameStore>((set, get) =>{
             }
         }
     }
-});
+}, {name: "question-game"}));
