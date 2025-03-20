@@ -12,6 +12,7 @@ interface QuestionGameStore {
     goNextQuestion: ()=>void
     goBackQuestion: ()=>void
     endGameQuestions: ()=>void
+    resetGameQuestions: ()=>void
 }
 
 
@@ -73,6 +74,10 @@ export const useQuestionGameStore = create<QuestionGameStore>()(persist(
             if (allHaveResponse) {
                 set({endGame: allHaveResponse})
             }
+        },
+
+        resetGameQuestions:()=>{
+            set({questions: [], currentQuestion: 0, endGame: false})
         }
     }
 }, {name: "question-game"}));
