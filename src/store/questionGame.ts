@@ -1,7 +1,7 @@
 import { create } from "zustand";
 import { type Question } from "../store/types.d";
 import { persist, devtools } from "zustand/middleware";
-const API_QUESTIONS = "http://localhost:5173/public/question.json";
+const API_QUESTIONS = "/question.json";
 
 interface QuestionGameStore {
     questions: Question[];
